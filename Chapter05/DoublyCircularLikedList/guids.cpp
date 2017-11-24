@@ -1,0 +1,5 @@
+// Aashish N. Ayyar : GUIDS.cpp
+#include <objbase.h>
+
+// {9F630EAD-7963-4856-B4FD-436356190129}
+extern "C" extern const IID IID_IList = { 0x9f630ead, 0x7963, 0x4856, { 0xb4, 0xfd, 0x43, 0x63, 0x56, 0x19, 0x1, 0x29 } };
